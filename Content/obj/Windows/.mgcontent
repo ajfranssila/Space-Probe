@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/alusta.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Asema.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Asteroidi1.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Asteroidi2.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Aurinko.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Avaruusluotain.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/AvaruusluotainRikki.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/este.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/JupiterTausta.jpg</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/jupiterUusi.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Kentta1Kuva.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Kipina.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/kivi.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/KuunkuvaUusin2.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Loppu.jpg</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Luola2.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/MaaKuva.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/MaaViimeinen4.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Merkurius.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/mineraali.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/mustaAukko.wav</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/ovi.wav</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/pieniKivi.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/PlaneettaRuskea.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/rakettimoottori.wav</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/Sukkula.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/SukkulanKatto.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/tormays.wav</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/VenusUusin.png</File>
+    <File>C:/Users/admin/source/repos/Avaruusluotain/Avaruusluotain/Content/VuoretMaasto.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
